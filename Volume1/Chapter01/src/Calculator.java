@@ -8,6 +8,7 @@ public class Calculator {
 
 	public int addAll(int num1, int num2, int num3) {
 		int sum=0;
+		sum=num1+num2+num3;
 		// Insert code here.
 		return sum;
 	}
